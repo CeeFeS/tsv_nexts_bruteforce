@@ -9,5 +9,5 @@ Teamspeak Viewer Burteforce uses a Backdoor of Teamspeak Provider <nexteamspeak.
 ```
 java -jar tsv_bruteforce_1.0.jar <IP> <log/notlog>
 ```
-
+- example: java -jar tsv_bruteforce_1.0.jar 225.134.0.0 log
 
