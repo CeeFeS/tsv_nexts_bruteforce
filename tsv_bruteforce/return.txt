@@ -1,0 +1,1 @@
+<div class='ts3v'><link rel='stylesheet' id='ts3v-css' href='https://www.nexteamspeak.de/backend/external/tsviewer/ts3v.css' type='text/css' media='all' /><div>Verbindung zum TeamSpeak3 Server fehlgeschlagen.</div></div>
